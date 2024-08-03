@@ -1,0 +1,9 @@
+name: Uncraft
+main: me.tuan.uncraft.Uncraft
+version: 1.0-SNAPSHOT
+api-version: '1.20'
+
+commands:
+  uncraft:
+    aliases: un
+    permission: uncraft.use
